@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "15cb7285418ee61e13ce2895",
+  "owner": "mfjpfmd",
+  "repo": "page-08f2b57673df7cdc3a415810",
+  "title": "冰云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "08f2b57673df7cdc3a415810",
+      "a": "冰云",
+      "b": "2027最新官网",
+      "entity": "冰云",
+      "brand": "冰云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cc77d6e69a615c712c6ff1716f87f491eeb6f9ef66ee84fd8be2a538d02bebaf",
+      "content": {
+        "primary_entity": "冰云",
+        "keyword1": "冰云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅配置方式，桌面端、移动端与路由器各有对应流程。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定冰云版本，进入购买流程完成订阅。",
+          "AI_CLOSING_TITLE": "选好版本即可开始",
+          "AI_DESCRIPTION": "，冰云提供基础版、旗舰版与团队版三档订阅，月付分别 ¥15、¥35、¥85，按年付为 ¥150、¥350、¥850。基础版含每月 100GB 流量与 3 台设备，旗舰版升级到 300GB、5 台设备并带 IPLC 专线游戏加速，团队版提供 1000GB 与 20 台设备同时在线。桌面、手机、路由器可按客户端文档导入订阅，按设备数量与流量节奏挑选版本更省心。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三个方面快速判断适合的版本。",
+          "AI_FEATURES_TITLE": "冰云订阅要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 与 3 台设备；旗舰版 ¥35 含 300GB、5 台设备与 IPLC 专线；团队版 ¥85 含 1000GB 与 20 台设备，按年付分别为 ¥150、¥350、¥850。",
+          "AI_FEATURE_TEXT_2": "个人手机加电脑选基础版即可，家庭成员或双端常用可选旗舰版的 5 台设备，工作室与小型团队直接看团队版 20 台在线。",
+          "AI_FEATURE_TEXT_3": "按月付灵活调整，按年付单价更低；流量在自然月内使用，跨设备共享同一订阅额度，升级版本可在下个计费周期生效。",
+          "AI_FEATURE_TITLE_1": "套餐档位分明",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "周期灵活计费",
+          "AI_GUIDE_INTRO": "按选择版本、确认设备适配、导入订阅三步操作，流程清晰。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "冰云聚焦海外网络加速订阅，基础版、旗舰版与团队版覆盖个人到团队场景，桌面、移动与路由器客户端按文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "冰云订阅，按需选择版本",
+          "AI_HIGHLIGHT_1": "三档版本覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "流量与设备数按版本区分",
+          "AI_PLANS_INTRO": "对比三档版本的流量、设备数量与价格，基础版适合轻量使用，旗舰版兼顾流媒体与游戏，团队版面向多人共享。",
+          "AI_PLANS_TITLE": "冰云套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常设备数量与每月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选版本支持的客户端类型与设备上限，确认当前设备满足基础系统要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，完成后即可在设备上启用加速。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "冰云，选对版本更顺手",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "冰云套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在订阅有效期内升级套餐，补差价后剩余流量和设备数按新套餐标准执行，具体操作可通过账户面板完成。",
+          "AI_FAQ_QUESTION_2": "流量用完后会断网吗？",
+          "AI_FAQ_ANSWER_2": "每月流量用尽后连接将暂停，用户可选择等待下月流量重置或提前升级套餐获得更多流量。",
+          "AI_FAQ_QUESTION_3": "同一个订阅可以多设备同时使用吗？",
+          "AI_FAQ_ANSWER_3": "可以，但受套餐设备数上限限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出后需先断开其他设备。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付价格相当于十个月月付费用，权益与月付一致，适合计划长期使用的用户，可节省两个月费用。",
+          "AI_FAQ_QUESTION_5": "如何导入冰云订阅？",
+          "AI_FAQ_ANSWER_5": "在客户端中选择订阅导入功能，粘贴账户提供的订阅地址，保存后更新节点列表即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq803aukai22dmht.com",
+    "host": "xn--9kq803aukai22dmht.com"
+  },
+  "file_hashes": {
+    "index.html": "a3b56205471adafee3481cfa78c76033166d8625714ae1bfed66c400abd43637",
+    "sitemap.xml": "c3c550858a2a2068c6f53ac13cc689a19bd025f0830ab1a36893f8cac4f73d0b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "823781bc77679cc32a822bdd7f3617451b108c550dbcf15fcc2799f84816638a",
+    "robots.txt": "b37aa6d73055b43d6fe3945f4c0617c5f7b9989f169c53125af187c99822a27f",
+    "034a10813232a47ca3655adeaefd3665.txt": "566b8511f0c02cdd68b2cd50185888b8281894b24f774137d5f28e388422ee1a"
+  },
+  "revision": "d2d51d881f6f656ff77632085968a30b23deca044230d2be82db5e0159ef52a9"
+}
